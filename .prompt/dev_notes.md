@@ -1,5 +1,7 @@
 # AI Prompts and Reflection (Developer Notes)
 
+
+
 This file documents how I used AI during this project. It includes three concrete prompts with the AI's outputs and what I did with them, followed by a short reflection on how AI helped (and where it didn't).
 
 ## Prompt Log
